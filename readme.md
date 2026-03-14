@@ -1,6 +1,6 @@
 # Pycyfic
 
-##### This project is currently in the beta stage. It is not a stable release and does not meet the requirements for a stable stage.
+#### ⚠️ This project is currently in the beta stage. It is not a stable release and does not meet the requirements for a stable stage.
 
 A small experimental toolchain that lets you write normal Python functions with `cython`-style annotations, then lazily transpile and compile them into Cython-backed functions at runtime.
 
